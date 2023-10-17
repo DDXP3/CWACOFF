@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(230, 230, 230);
+}
+
+.Cloudy {
+    background-color: aqua;
+    font-size: 25px;
+    padding: 1%;
+    text-indent: 5%;
+}
+
+.void {
+    padding: 1%;
+}
+
+.searchBlock {
+    background-color: yellow;
+    padding: 1%;
+}
+
+.funFacts {
+    text-align: center;
+    padding: 1%;
+    background-color: aqua;
+}
