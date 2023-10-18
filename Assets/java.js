@@ -3,7 +3,7 @@ var present = dayjs();
 var searchBTN = document.querySelector('.searchBTN');
 var input = document.querySelector('#input')
 var city = input.value
-var sunshine = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}`
+var sunshine = "https://api.openweathermap.org/data/2.5/weather?q= + city + &appid= + apiKey"
 var descrip;
 var icon;
 var temp;
@@ -38,4 +38,5 @@ function funky1(){
 
 function funky2(){
     console.log("funky")
+    
 }
