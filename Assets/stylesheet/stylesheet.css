@@ -14,9 +14,31 @@ body {
     padding: 1%;
 }
 
+.voided {
+    padding: .5%;
+}
+
 .searchBlock {
     background-color: yellow;
     padding: 1%;
+    /* position: absolute; */
+    /* position: relative; */
+    /* padding-top: 50%;
+    padding-bottom: 50%; */
+}
+
+#infoCard {
+    background-color: white;
+}
+
+/* #futCard {
+    background-color: white;
+    border: 1px solid black;
+} */
+
+.btn {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(0, 0, 0);
 }
 
 .funFacts {
