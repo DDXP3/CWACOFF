@@ -32,6 +32,6 @@ Joey Thao - https://github.com/Thaodev23
 
 Jason Yang - https://github.com/Jasony95
 
-On this homework, We were diving to insomnia, as much as I have insomnia and don't want it, I have this and don't want it. I know that it can be proven very useful and I'm doing my bets to understand it, but I will have to keep trying until I can understand it.
+On this homework, We were diving to insomnia, as much as I have insomnia and don't want it, I have this and don't want it. I know that it can be proven very useful and I'm doing my best to understand it, but I will have to keep trying until I can understand it.
 
 At the Bottom I'd like to add fun facts but due to the time limit, I'm going to keep it as if.
